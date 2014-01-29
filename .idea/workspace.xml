@@ -62,6 +62,9 @@
   <component name="FavoritesManager">
     <favorites_list name="riak-test" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
@@ -231,12 +234,12 @@
       <changelist id="6f77fd9b-0d50-4e8e-95bf-857003e513c9" name="Default" comment="" />
       <created>1391025000475</created>
       <updated>1391025000475</updated>
-      <workItem from="1391025013359" duration="20000" />
+      <workItem from="1391025013359" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20000" />
+    <option name="totallyTimeSpent" value="99000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1058" extended-state="0" />
